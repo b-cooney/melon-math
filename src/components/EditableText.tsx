@@ -6,7 +6,7 @@ export const EditableText = () => {
   const [text, setText] = useState('Coming soon...');
 
   useEffect(() => {
-    consta savedText = localStorage.getItem('comingSoonText');
+    const savedText = localStorage.getItem('comingSoonText');
     if (savedText) {
       setText(savedText);
     }
