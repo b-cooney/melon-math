@@ -12,7 +12,7 @@ export const Links = () => {
         <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform duration-200" />
       </a>
       <a
-        href="#"
+        href="https://forms.gle/NNWd9ZZ8y9UGm8HF9"
         className="group flex items-center gap-2 px-6 py-3 text-lg text-white bg-gray-900 rounded-lg hover:bg-gray-800 transition-all duration-200"
       >
         Register your interest
